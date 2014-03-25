@@ -5,8 +5,7 @@ Yii Training Day-1
 
 ## Demo
 
-See live demo [here](http://shamsher31.github.io/yii-training-day-1
-/).
+See live demo [here](http://shamsher31.github.io/yii-training-day-1).
 
 ## Author
 
